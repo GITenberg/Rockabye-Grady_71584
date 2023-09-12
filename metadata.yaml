@@ -1,0 +1,41 @@
+_repo: Rockabye-Grady_71584
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dufferin and Ava, Frederick Temple Blackwood, Marquis of
+    aliases:
+    - Blackwood, Frederick Temple, Earl of Dufferin
+    - Dufferin and Ava, Frederick Temple Hamilton-Temple-Blackwood, Marquis of
+    - Dufferin, Frederick Temple Blackwood, Earl of
+    - Dufferin, Lord
+    - Hamilton-Temple-Blackwood, Frederick Temple, Marquis of Dufferin and Ava
+    birthdate: 1826
+    deathdate: 1902
+    gutenberg_agent_id: '1271'
+    url: http://www.gutenberg.org/2009/agents/1271
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava
+creator:
+  author:
+    agent_name: Mason, David
+    birthdate: 1924
+    deathdate: 1974
+    gutenberg_agent_id: '26303'
+    url: http://www.gutenberg.org/2009/agents/26303
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71584'
+language: en
+pgterms:marc905: 20230813110904mason
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rockabye, Grady
+url: http://www.gutenberg.org/ebooks/71584
