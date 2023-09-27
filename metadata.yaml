@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '1271'
     url: http://www.gutenberg.org/2009/agents/1271
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava
+covers:
+- cover_type: archival
+  image_path: 71584-h/images/cover.jpg
 creator:
   author:
     agent_name: Mason, David
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '26303'
     url: http://www.gutenberg.org/2009/agents/26303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71584#Rockabye-Grady
 gutenberg_issued: '2023-09-07'
 identifiers:
   gutenberg: '71584'
